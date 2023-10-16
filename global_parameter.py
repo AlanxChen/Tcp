@@ -1,0 +1,2 @@
+global global_CSeq
+global_CSeq=1
